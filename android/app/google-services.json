@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "782085304904",
+    "project_id": "casamart-ac7d7",
+    "storage_bucket": "casamart-ac7d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782085304904:android:fe7b5f51d51b9439111e7d",
+        "android_client_info": {
+          "package_name": "com.example.casamart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782085304904-sih9947djn40ukdt64a0rngts7a3en51.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.casamart",
+            "certificate_hash": "a487e85802d7da953e9b9e718299acffbd902a5b"
+          }
+        },
+        {
+          "client_id": "782085304904-ia44olfn970g1j68vs1oagmnae63h15a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjyfjUhEsHBVtQRG9AZrDwYX0chzAYlVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782085304904-ia44olfn970g1j68vs1oagmnae63h15a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
